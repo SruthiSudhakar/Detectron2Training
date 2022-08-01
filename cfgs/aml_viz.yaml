@@ -1,0 +1,13 @@
+gpus: 1
+
+eval: False
+predict: False
+train: False
+unlabled_predict: False
+visualize: False
+
+classes: 21
+
+batch_size: 8
+iters: 1250
+lr: 0.00025

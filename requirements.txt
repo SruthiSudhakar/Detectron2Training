@@ -1,0 +1,6 @@
+azureml-core
+configargparse
+opencv-python
+tensorboard
+torch
+torchvision

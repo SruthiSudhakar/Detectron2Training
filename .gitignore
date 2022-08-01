@@ -1,0 +1,8 @@
+﻿*pycache*
+logs
+/src/.vs/SyntheticsDetectron2/v16
+/fuse_connection.cfg
+arc.json
+detectron2.yaml
+*.sln
+*.pyproj

@@ -1,0 +1,12 @@
+gpus: 1
+
+eval: True
+train: True
+predict: False
+visualize: False 
+
+classes: 21
+
+batch_size: 8
+iters: 16000
+lr: 0.00025
